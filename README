@@ -1,1 +1,18 @@
-Data analysis 
+Data Analytics Projects
+
+This repository contains end-to-end data analytics projects developed using Power BI.  
+Each project focuses on transforming raw data into meaningful insights through data profiling, modeling, DAX measures, and interactive dashboards.
+
+ Projects Included
+- Sales Performance Analysis
+- UPI Transactions Analysis
+
+Tools & Technologies
+- Power BI
+- Excel
+- DAX
+- Data Profiling & Cleaning
+- Data Visualization
+
+Each project folder contains its own dataset, dashboard, and detailed documentation.
+
