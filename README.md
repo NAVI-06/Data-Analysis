@@ -2,6 +2,7 @@ This repository contains end-to-end data analytics projects developed using Powe
 Each project focuses on transforming raw data into meaningful insights through data profiling, modeling, DAX measures, and interactive dashboards.
 
 🔄 Data Analytics Workflow (Power BI)
+
 1️⃣ Data Gathering
 •	Collected Sales and UPI transaction datasets
 •	Used structured files (Excel / CSV)
